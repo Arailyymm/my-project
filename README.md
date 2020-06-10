@@ -1,2 +1,2 @@
 # my-project
-projects that I'va done, but not all
+projects that I've done, but not all
